@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.falabella.automatizacion.testing.cucumber.runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.003 s - in com.falabella.automatizacion.testing.cucumber.runners.Runner
