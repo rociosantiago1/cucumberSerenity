@@ -1,0 +1,4 @@
+com\falabella\automatizacion\testing\cucumber\resumenOrden\ResumenOrdenSteps.class
+com\falabella\automatizacion\testing\cucumber\resumenOrden\ResumenOrdenPageObject.class
+com\falabella\automatizacion\testing\cucumber\runners\Runner.class
+com\falabella\automatizacion\testing\cucumber\resumenOrden\ResumenOrdenDefinitions.class
